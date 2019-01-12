@@ -46,8 +46,8 @@ body {
                 <img src="<?php echo $player['picture'] ?>" height=500 width=400/>
             </td>
             <td>
-                <p><span style="font-weight:700;font-size: 20px;background-color:lightblue;"><?php echo $player['about'] ?></span></p>
-                <p><span style="font-weight:700;font-size: 20px;background-color:lightblue;"><?php echo $player['careerstats'] ?></span></p>
+                <p><span style="font-weight:700;font-size: 30px;background-color:lightblue;"><?php echo $player['about'] ?></span></p>
+                <p><span style="font-weight:700;font-size: 30px;background-color:lightblue;"><?php echo $player['careerstats'] ?></span></p>
                 <?php } ?>
             </td>
         </tr>

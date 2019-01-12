@@ -87,9 +87,9 @@ INSERT INTO aboutplayer (sportsid, name, about, careerstats, picture) VALUES
     "Money Earned: $850,000",
     "http://www.spikingforautism.com/uploads/5/6/7/4/56748185/745091_orig.jpg");
 INSERT INTO aboutplayer (sportsid, name, about, careerstats, picture) VALUES
-    (4, "WILFREDO LEON", "Aaron Russell is an American volleyball player, a member of the United States men's national volleyball team and Italian club Diatec Trentino. He was part of the bronze medalist winning USA team at the 2016 Olympic Games.",
+    (4, "WILFREDO LEON", "Wilfredo León Venero is a Cuban professional volleyball player with Polish citizenship, a member of Cuba men's national volleyball team in 2007–2012 and Russian club Zenit Kazan, silver medalist of the World Championship 2010, NORCECA Champion, Cuban Champion, Russian Champion .Current club‎: ‎Sir Sicoma Conad Perugia Position‎: ‎Outside Spiker ; Block‎: ‎346 cm (136 in)",
     "Money Earned: $1,900,000",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Zenit_Kazan_vs_Halkbank_-_CEV_Men%27s_Volleyball_Champions_League_%2823547482665%29.jpg/1024px-Zenit_Kazan_vs_Halkbank_-_CEV_Men%27s_Volleyball_Champions_League_%2823547482665%29.jpg");
+    "https://s21466.pcdn.co/wp-content/uploads/2018/05/Wilfredo-Leon-Zenit-Kazan-2017.jpg");
     
 INSERT INTO teamandstats (sportsid, entry) VALUES
     (1, "Golden State Warriors: Points per game: 113.5  Rebounds per game: 43.5 Assists per game: 29.3");
